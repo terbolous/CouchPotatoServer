@@ -122,7 +122,7 @@ config = [{
               'advanced': True,
               'label': 'Extra score',
               'type': 'int',
-              'default': 20,
+              'default': 500,
               'description': 'Starting score for each release found via this provider',
           }
       ],
